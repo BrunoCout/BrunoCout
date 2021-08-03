@@ -22,6 +22,6 @@
   <a href="https://www.linkedin.com/in/bruno-coutinho-567070203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
-<img src="https://i.pinimg.com/originals/a1/9d/14/a19d149acd516549f0a2ac035b88cd35.gif" target="_blank">
+<img src="https://im6.ezgif.com/tmp/ezgif-6-9ea57995a030.gif" target="_blank">
 
  ##
