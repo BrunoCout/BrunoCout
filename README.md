@@ -21,5 +21,7 @@
   <a href = "mailto:iambrunocout@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-coutinho-567070203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+ 
+<img src="https://alk3r.files.wordpress.com/2016/11/c3f9d-1478556158870.gif?w=699&h=393" target="_blank">
+
  ##
-<img src="https://alk3r.files.wordpress.com/2016/11/3ef5d-1478555468441.gif?w=700" target="_blank">
