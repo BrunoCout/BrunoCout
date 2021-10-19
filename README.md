@@ -1,5 +1,3 @@
-## Olá ^^
-
 <!--
 - 🌱 Estou atualmente me aprofundando em front-end e back-end.
 -->
