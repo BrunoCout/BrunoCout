@@ -7,6 +7,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocout&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
+ ##
+ 
  ### Entre em contato comigo:
  
  <div> 
@@ -24,5 +26,4 @@
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
- 
 </div>
