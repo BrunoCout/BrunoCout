@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Something**
 
-- ⚡ i play league of legends 😂
+- ⚡ I'm a league of legends player 😂
 
 ## 🛠 &nbsp;Stacks
  
