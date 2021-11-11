@@ -19,12 +19,12 @@
 
 ## 🛠 &nbsp;Stacks
  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Nextjs](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-blueviolet?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-blueviolet?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-blueviolet?style=flat&logo=react)&nbsp;
+![Nextjs](https://img.shields.io/badge/-Nextjs-blueviolet?style=flat&logo=next.js)&nbsp;
 
 <br>
 
@@ -41,9 +41,9 @@
  
 <p align="left" style="background:yellow">
   <a href="mailto:iambrunocout@gmail.com" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-iambrunocout-05122A?style=flat&logo=gmail" alt="gmail">
+   <img align="center" src="https://img.shields.io/badge/-iambrunocout-blueviolet?style=flat&logo=gmail" alt="gmail">
   </a>
   <a href="https://linkedin.com/in/brunocout" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-brunocout-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+   <img align="center" src="https://img.shields.io/badge/-brunocout-blueviolet?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
 </p>
