@@ -15,7 +15,7 @@
 
 - ⚡ i play league of legends 😂
 
-## 🛠 &nbsp;Stacks:
+## 🛠 &nbsp;Stacks
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -35,7 +35,7 @@
 </div>
 
 
-## #️⃣ &nbsp;Social:
+## #️⃣ &nbsp;Social
  
 <p align="left" style="background:yellow">
   <a href="mailto:iambrunocout@gmail.com" target="_blank">
