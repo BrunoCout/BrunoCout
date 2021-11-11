@@ -1,29 +1,47 @@
 <!--
 - 🌱 Estou atualmente me aprofundando em front-end e back-end.
 -->
- <div>
-  <a href="https://github.com/brunocout">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunocout&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocout&layout=compact&langs_count=7&theme=radical"/>
+<img align="right" height="525em" width="450em" src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Coutinho</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocout&color=yellow" alt="Profile views" /> </p>
+
+- ❤️ Web developer passionate about what he does
+
+- 🔭 I’m currently searching for oportunity to show what i can do
+
+- 👨‍💻 All of my projects are available at here
+
+- 💬 Ask me about **Something**
+
+- ⚡ i play league of legends 😂
+
+## 🛠 &nbsp;Stacks:
+ 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Nextjs](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Stats
+
+<div>
+ <a href="https://github.com/brunocout">
+ <img height="120em" src="https://github-readme-stats.vercel.app/api?username=brunocout&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocout&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+
+## #️⃣ &nbsp;Social:
  
- ##
- 
- ### Entre em contato comigo:
- 
- <div> 
-  <a href = "mailto:iambrunocout@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
-  <a href="https://www.linkedin.com/in/brunocout" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a> 
-</div>
- 
- ### Linguagens:
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-</div>
+<p align="left" style="background:yellow">
+  <a href="mailto:iambrunocout@gmail.com" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-iambrunocout-05122A?style=flat&logo=gmail" alt="gmail">
+  </a>
+  <a href="https://linkedin.com/in/brunocout" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-brunocout-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+</p>
