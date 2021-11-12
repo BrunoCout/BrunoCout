@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at here
 
-- 💬 Ask me about **Something**
+- 💬 Ask me about **Anything**
 
 - ⚡ I'm a league of legends player 😂
 
