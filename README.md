@@ -24,7 +24,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-blueviolet?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-blueviolet?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Nextjs-blueviolet?style=flat&logo=next.js)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-blueviolet?style=flat&logo=next.js)&nbsp;
 
 <br>
 
