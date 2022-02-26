@@ -5,7 +5,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Coutinho</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocout&color=blueviolet" alt="Profile views" /> </p>
 
-- ❤️ Web developer passionate about what he does
+- ❤️ Systems analyst student passionate about what he does
 
 - 🔭 I’m currently searching for oportunity to show what i can do
 
