@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Anything**
 
-- ⚡ I'm a league of legends player 😂
-
 <br>
 
 ## 🛠 &nbsp;Stacks
