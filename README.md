@@ -3,7 +3,7 @@
 -->
 <img align="right" height="525em" width="450em" src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Coutinho</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocout&color=blueviolet" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocout&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
 
 - ❤️ Systems analyst student passionate about what he does
 
@@ -17,12 +17,13 @@
 
 ## 🛠 &nbsp;Stacks
  
-![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-blueviolet?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-blueviolet?style=flat&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-blueviolet?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-blueviolet?style=flat&logo=next.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![HTML]( 	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
 <br>
 
@@ -39,9 +40,9 @@
  
 <p align="left" style="background:yellow">
   <a href="mailto:iambrunocout@gmail.com" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-iambrunocout-blueviolet?style=flat&logo=gmail" alt="gmail">
+   <img align="center" src="https://img.shields.io/badge/iambrunocout-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
   </a>
   <a href="https://linkedin.com/in/brunocout" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-brunocout-blueviolet?style=flat&logo=linkedin" alt="linkedin"/>
+   <img align="center" src="https://img.shields.io/badge/brunocout-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </p>
