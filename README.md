@@ -2,7 +2,7 @@
 - 🌱 Estou atualmente me aprofundando em front-end e back-end.
 -->
 <img align="right" height="525em" width="450em" src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Coutinho</h1>
+<h1 align="left">Hi 👋, I'm Bruno Coutinho</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocout&color=6100ff&style=for-the-badge" alt="Profile views" /> </p>
 
 - ❤️ Systems analyst student passionate about what he does
