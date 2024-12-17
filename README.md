@@ -5,13 +5,8 @@
 <h1 align="left">Hi 👋, I'm Bruno Coutinho</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocout&color=6100ff&style=for-the-badge" alt="Profile views" /> </p>
 
-- ❤️ Systems analyst student passionate about what he does
-
-- 🔭 I’m currently searching for oportunity to show what i can do
-
-- 👨‍💻 All of my projects are available at here
-
-- 💬 Ask me about **Anything**
+- 👨‍💻 Software engineer
+- 🔭 I currently work with Salesforce CRM
 
 <br>
 
