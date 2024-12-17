@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocout&color=6100ff&style=for-the-badge" alt="Profile views" /> </p>
 
 - 👨‍💻 Software engineer
-- 🔭 I currently work with Salesforce CRM
+- 🔭 I am a Salesforce professional with experience in implementation, customization, and process automation within the platform. I focus on solutions that enhance efficiency and user experience, leveraging Salesforce's best practices and tools.
 
 <br>
 
